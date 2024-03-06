@@ -1,4 +1,5 @@
- let userInput = prompt("What is your password");
+//Conditional Statement Practice 
+let userInput = prompt("What is your password");
 let countPass = userInput.length;
 
 if (countPass < 4) {
